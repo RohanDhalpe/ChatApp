@@ -1,8 +1,12 @@
 # ChatApp
 
-## Chat Screenshots between two patient and doctor
+# Chat Screenshots between  patient and doctor
+
+### 1) Login Page
 
 ![1](https://github.com/RohanDhalpe/ChatApp/blob/main/client/src/assets/Screenshot%20(55).png)
+
+### 2) Actual Chat Between Doctor and Patient.
 
 ![2](https://github.com/RohanDhalpe/ChatApp/blob/main/client/src/assets/Screenshot%20(57).png)
 
