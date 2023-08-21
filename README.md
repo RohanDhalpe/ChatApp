@@ -15,6 +15,7 @@
 ![4](https://github.com/RohanDhalpe/ChatApp/blob/main/client/src/assets/Screenshot%20(59).png)
 
 ![5](https://github.com/RohanDhalpe/ChatApp/blob/main/client/src/assets/Screenshot%20(60).png)
+### 3) Group Chat
 
 ![6](https://github.com/RohanDhalpe/ChatApp/blob/main/client/src/assets/Screenshot%20(72).png)
 
