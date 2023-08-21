@@ -1,6 +1,6 @@
 # ChatApp
 
-created a full Realtime Chat Application using  React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
+created a full Realtime Chat Application using  React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io
 
 # Chat Screenshots between  patient and doctor
 
