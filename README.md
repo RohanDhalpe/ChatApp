@@ -1,4 +1,4 @@
-# ChatApp
+# Medi-Connect Chat Application
 
 created a full Realtime Chat Application using  React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io
 
